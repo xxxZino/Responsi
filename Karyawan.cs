@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace ResponsiPemrograman4345
+namespace ResponsiPemrograman4390
 {
     class Karyawan
     {
@@ -28,6 +26,8 @@ namespace ResponsiPemrograman4345
                 this.GajiBulanan = gajiBulanan;
                 NaikGaji = Convert.ToInt32((GajiBulanan * 1.1));
             }
+
         }
+
     }
 }
