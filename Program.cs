@@ -6,7 +6,7 @@ namespace ResponsiPemrograman4345
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nama     : Ega");
+            Console.WriteLine("Nama     : Ega Saputra Hutagalung");
             Console.WriteLine("NIM      : 21.11.4345");
 
             Console.WriteLine("\n");
