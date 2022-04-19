@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ResponsiPemrograman4390
+namespace ResponsiPemrograman4345
 {
     class Karyawan
     {
